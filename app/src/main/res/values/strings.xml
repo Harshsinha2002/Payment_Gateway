@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Payment_Gateway</string>
+    <string name="payment">PAYMENT</string>
+    <string name="phone">PHONE :</string>
+    <string name="email_id">EMAIL ID :</string>
+    <string name="name">NAME :</string>
+    <string name="number_of_adults">NUMBER OF ADULTS</string>
+    <string name="get_amount">GET AMOUNT</string>
+    <string name="adults">ADULTS :</string>
+</resources>
